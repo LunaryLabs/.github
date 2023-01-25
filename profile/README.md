@@ -10,3 +10,7 @@ A team of developers intent on blowing you away with our Discord apps
    <img alt="" src="https://img.shields.io/static/v1?label=Git&color=orange&message=%20&logo=git&style=for-the-badge">
  <div>
 <div>
+
+<img src="contributions.svg">
+
+<img width="0" src="https://visitor-badge.glitch.me/badge?page_id=LunaryLabs" />
