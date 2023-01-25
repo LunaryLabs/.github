@@ -11,6 +11,6 @@ A team of developers intent on blowing you away with our Discord apps
  <div>
 <div>
 
-<img src="contributions.svg">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 
 <img width="0" src="https://visitor-badge.glitch.me/badge?page_id=LunaryLabs" />
