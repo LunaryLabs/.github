@@ -1,4 +1,5 @@
 # LunaryLabs About Us
+<img src="https://media.discordapp.net/attachments/1067468183918891058/1067790316855369798/image.png" alt="lunary-bot">
 A team of developers intent on blowing you away with our Discord apps 
 # Languages Used 
 <div>
